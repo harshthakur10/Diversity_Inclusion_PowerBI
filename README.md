@@ -1,5 +1,8 @@
 # Insights into Workplace Diversity: Power BI Analysis
 
+![1594213631503](https://github.com/harshthakur10/Diversity_Inclusion_PowerBI/assets/164614767/56dc26e3-bfc8-4a62-a976-3183d9295256)
+
+
 **Overview**
 
 *This project leverages Power BI to analyze key metrics related to diversity and inclusion within an organization. The goal is to uncover insights that can guide strategies for enhancing gender equity, improving retention rates, and fostering a diverse and inclusive workplace culture.*
